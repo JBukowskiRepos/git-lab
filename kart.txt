@@ -1,0 +1,12 @@
+Grupa 1
+Zadanie 1
+Napisz prostą aplikację Flask, która wyświetla stronę główną z tekstem "Witaj w mojej aplikacji Flask!".
+
+Zadanie 2
+Dodaj trasę /hello/<name>, która będzie przyjmować imię jako parametr i wyświetlać wiadomość powitalną, np. "Hello, John!".
+
+Zadanie 3
+Dodaj formularz HTML na stronie głównej, który pozwoli użytkownikowi wpisać swoje imię i po jego wysłaniu przekieruje go na stronę /hello/<name>.
+
+Zadanie 4
+Dodaj obsługę statycznych plików CSS i zdefiniuj prosty styl dla strony głównej, który zmieni kolor tła na niebieski.
